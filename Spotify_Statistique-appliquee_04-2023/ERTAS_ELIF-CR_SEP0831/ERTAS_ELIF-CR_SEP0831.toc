@@ -1,0 +1,26 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Description des données}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}La plateforme de streaming Spotify}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}L'objectif de l'étude}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Les données utilisées}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Les différents types d'artistes}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}La répartition des types d'artistes}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}La popularité entre les différents types d'artistes}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}La danceabilité des musiques}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}La popularité des musiques en fonction de leur danceabilité}{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}L'acoustique des musiques}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}La popularité des musiques en fonction de leur acoustique}{6}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Pour aller plus loin}{7}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{7}{section.6}%
+\contentsline {section}{Remerciements}{7}{section.6}%
+\contentsline {section}{\numberline {A}Annexes}{8}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Structure de la base de donnée}{8}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Tests de normalité entre le type d'artiste et la popularité}{8}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Test de l'égalité des variances entre le type d'artiste et la popularité}{10}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}Test de comparaison des médianes entre le type d'artiste et la popularité}{10}{subsection.A.4}%
+\contentsline {subsection}{\numberline {A.5}Comparaison deux à deux des groupes entre le type d'artiste et la popularité}{11}{subsection.A.5}%
+\contentsline {subsection}{\numberline {A.6}Test de normalité entre la danceabilité et la popularité}{11}{subsection.A.6}%
+\contentsline {subsection}{\numberline {A.7}Tests de non-corrélation monotone entre la danceabilité et la popularité}{11}{subsection.A.7}%
+\contentsline {subsection}{\numberline {A.8}Test de normalité entre l'acoustique et la popularité}{12}{subsection.A.8}%
+\contentsline {subsection}{\numberline {A.9}Tests de non-corrélation monotone entre l'acoustique et la popularité}{12}{subsection.A.9}%
+\contentsline {section}{Bibliographie}{13}{subsection.A.9}%
