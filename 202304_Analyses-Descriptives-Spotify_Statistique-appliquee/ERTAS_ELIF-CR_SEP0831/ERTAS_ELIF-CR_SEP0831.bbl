@@ -1,0 +1,62 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{ferreira_amorim_abiassi_collaborations_2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a861584623aa045847bfd2802385302d}{%
+           family={{Ferreira Amorim Abiassi}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a861584623aa045847bfd2802385302d}
+      \strng{fullhash}{a861584623aa045847bfd2802385302d}
+      \strng{bibnamehash}{a861584623aa045847bfd2802385302d}
+      \strng{authorbibnamehash}{a861584623aa045847bfd2802385302d}
+      \strng{authornamehash}{a861584623aa045847bfd2802385302d}
+      \strng{authorfullhash}{a861584623aa045847bfd2802385302d}
+      \field{labelalpha}{Fer21}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{2}
+      \field{title}{Collaborations musicales : la puissance du featuring - Europavox}
+      \field{titleaddon}{Collaborations musicales : la puissance du featuring - Europavox}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Collaborations musicales \: la puissance du featuring - Europavox:C\:\\Users\\Utilisateur\\Zotero\\storage\\9VC6JSGN\\how-the-featured-artist-is-excelling-across-europe.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.europavox.com/fr/news/how-the-featured-artist-is-excelling-across-europe/
+      \endverb
+      \verb{url}
+      \verb https://www.europavox.com/fr/news/how-the-featured-artist-is-excelling-across-europe/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
